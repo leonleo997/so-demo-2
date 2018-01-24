@@ -1,7 +1,7 @@
 # Taller 1
 
-**Nombre:** student_name  
-**Código:** student_id
+**Nombre:** Yesid Leonardo López  
+**Código:** A00056408
 
 ## Descripción
 En este taller deberá consignar los pasos para:
